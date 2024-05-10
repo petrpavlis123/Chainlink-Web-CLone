@@ -12,3 +12,7 @@ document.getElementById("bbbButton").addEventListener("click", function() {
     // Add functionality for BBB button
     alert("BBB button clicked");
 });
+document.getElementById("cccButton").addEventListener("click", function() {
+    // Add functionality for BBB button
+    alert("CCC button clicked");
+});
