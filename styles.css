@@ -1,0 +1,19 @@
+body {
+    background-color: #42426b; /* Blue background /
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    background-color: #dc3545; / Red button */
+    color: rgb(131, 143, 197);
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    margin: 5px;
+}
